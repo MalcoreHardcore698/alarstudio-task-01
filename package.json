@@ -1,0 +1,23 @@
+{
+  "name": "alarstudio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 4200 --open",
+    "build": "parcel build ./src/index.html --no-source-maps"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coffeescript": "^2.5.1",
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "konva": "^7.1.3"
+  }
+}
