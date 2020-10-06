@@ -1,6 +1,6 @@
 # TestTask for AlarStudios
 
-Hello! Please look at my solution. The task took 10 hours
+Hello! Please look at my solution. The task took 2 hours
 
 * [CoffeeScript](https://coffeescript.org/)
 * [Konva](https://konvajs.org/)
