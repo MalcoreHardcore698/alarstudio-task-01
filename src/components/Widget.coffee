@@ -1,4 +1,4 @@
-export class Widget
+export class Widget   
     onEvent: (event, widget, callback) ->
         if callback
             widget.on event, (evt) => callback evt
